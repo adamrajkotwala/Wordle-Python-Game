@@ -1,0 +1,13 @@
+{
+    "packages": [
+        "random",
+        "pygame",
+        "sys",
+        "tkinter",
+        "re",
+        "math"
+    ],
+    "files": [
+        "word_list.py"
+    ]
+}
