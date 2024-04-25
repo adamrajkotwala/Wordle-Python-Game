@@ -28,7 +28,7 @@ class Wordle:
                         "toast", "bacon", "toast", "crank", "pizza", "pasta", "grave",
                         "steal", "olive", "first", "beans", "curry", "cream", "wheel"
                         "sugar", "honey", "syrup", "sauce", "gravy", "butter", "cheese", 
-                        "crawl", "fruit", "broad", "camel", "drive", "glass", "bench", 
+                        "crawl", "fruit", "broad", "camel", "drive", "glass", 
                         "stool", "shelf", "books"]
         self.word = self.get_word() #calls function to select random word from above list
 
