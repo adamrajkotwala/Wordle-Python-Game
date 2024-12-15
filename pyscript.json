@@ -1,0 +1,9 @@
+{
+    "packages": [
+        "pygame",
+        "tkinter"
+    ],
+    "files": [
+        "word_list.py"
+    ]
+}
